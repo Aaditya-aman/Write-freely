@@ -7,7 +7,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Write freely',
+  title: 'Write Wonder',
   description: 'A minimalist writing app with timer',
 };
 
