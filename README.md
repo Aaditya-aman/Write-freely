@@ -1,10 +1,10 @@
-<div align="center">
+![Screenshot 2025-04-14 110921](https://github.com/user-attachments/assets/9c97faa0-95df-49f5-8fcf-b21b85a73046)<div align="center">
 <h3 align="center">Write Wonder</h3>
 
   <p align="center">
     A minimalist writing app with a timer and writing history.
     <br />
-     <a href="https://aaditya-aman-write-wonder.com">aaditya-aman-write-wonder.com</a>
+     <a href="https://writewonder.vercel.app">writewonder.vercel.app</a>
   </p>
 </div>
 
