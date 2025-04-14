@@ -6,7 +6,8 @@
     <br />
      <a href="https://aaditya-aman-write-wonder.com">aaditya-aman-write-wonder.com</a>
   </p>
-  <img src="https://github.com/user-attachments/assets/721b7fb3-e480-4809-9023-fd48b82b1f8c" alt="Write Wonder Interface" width="800"/>
+  <img src="![Screenshot 2025-04-14 110921](https://github.com/user-attachments/assets/a9de360f-6052-4d0d-ade5-5e277b415cc2)
+" alt="Write Wonder Interface" width="800"/>
 </div>
 
 ## Table of Contents
